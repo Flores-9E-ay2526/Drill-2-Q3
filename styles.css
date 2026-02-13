@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    
+    align-items: center;
+
+    justify-content: center;
+
+    padding: 5px;
+
+    background-color: #f8f9fa;
+
+    border: rgb(142, 131, 131) 2px solid;
+
+    border-radius: 15px;
+
+    box-shadow: 0 6px 9px rgb(142, 131, 131);
+
+    margin-top: 70px;
+
+
+}
+
+
+body {
+
+    background-image: url(Math-Background.jpg);
+     background-size: cover;     
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+
+
+
+}
